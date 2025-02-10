@@ -40,7 +40,7 @@ export const sendWelcomeEmail = async (email, name) => {
               Get ready to explore, create, and enjoy events like never before.
             </p>
             <div style="text-align: center; margin-top: 20px;">
-              <a href="https://eventflow.com/" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-decoration: none; font-size: 16px; border-radius: 5px; display: inline-block;">
+              <a href="https://eventflow-3ccq.onrender.com/" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-decoration: none; font-size: 16px; border-radius: 5px; display: inline-block;">
                 Get Started 🚀
               </a>
             </div>
