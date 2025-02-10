@@ -112,7 +112,7 @@ Then, deploy using **Vercel**, **Netlify**, or a preferred hosting service.
 ---
 
 ## 📧 Support
-For any issues, feel free to create an [Issue](https://github.com/your-username/EventFlow/issues) or contact us via email at **support@eventflow.com**.
+For any issues, feel free to create an [Issue](https://github.com/Pravin223047/EventFlow/issues) or contact us via email at **kshirsagarpravin.1111@gmail.com**.
 
 ---
 
@@ -126,5 +126,5 @@ We welcome contributions! If you’d like to improve EventFlow, follow these ste
 
 ---
 
-### Made with ❤️ by the EventFlow Team
+### Made with ❤️ by the kshirsagarpravin.1111@gmail.com
 
