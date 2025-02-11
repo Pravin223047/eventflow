@@ -32,7 +32,7 @@
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/EventFlow.git
+git clone https://github.com/Pravin223047/EventFlow.git
 cd EventFlow
 ```
 
